@@ -1,0 +1,125 @@
+﻿@page
+@using AcademicManagement
+@model Lab3.Pages.RegistrationModel
+
+<style>
+    .message-notice {
+        margin-top: 10px;
+        background-color: #d1e7dd;
+    }
+</style>
+
+<div class="container">
+    <h1>Registration</h1>
+    <hr />
+</div>
+
+<div class="container">
+    <form method="post" class="row g-2 align-items-center">
+        <div class="col-auto">
+            <select class="form-select" id="studentsDropdown" asp-for="SelectedStudentId" asp-items="Model.Students">
+                <option value="">Choose a student ...</option>
+            </select>
+        </div>
+        <div class="col-auto d-none">
+            <button type="submit" id="getRegistrationsButton" class="btn btn-primary" asp-page-handler="StudentSelected">Get Registrations</button>
+        </div>
+
+        <script>
+            document.getElementById("studentsDropdown").addEventListener("change", function () {
+                document.getElementById("getRegistrationsButton").click();
+            });
+        </script>
+
+        <div asp-validation-for="SelectedStudentId" class="message-notice"></div>
+
+        <div>
+            @if (Model.ShowCourses)
+            {
+                @if (Model.StudentCourses != null && Model.StudentCourses.Count > 0)
+                {
+                    <p class="message-notice">The student has registered for the following courses:</p>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    <a asp-route-sortField="CourseCode" asp-route-sortAscending="@(Model.SortField == "CourseCode" ? !Model.SortAscending : true)">
+                                        Course Code
+                                    </a>
+                                </th>
+                                <th>
+                                    <a asp-route-sortField="CourseTitle" asp-route-sortAscending="@(Model.SortField == "CourseTitle" ? !Model.SortAscending : true)">
+                                        Course Title
+                                    </a>
+                                </th>
+                                <th>
+                                    <a asp-route-sortField="Grade" asp-route-sortAscending="@(Model.SortField == "Grade" ? !Model.SortAscending : true)">
+                                        Grade
+                                    </a>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var course in Model.StudentCourses)
+                            {
+                                var courseTitle = DataAccess.GetAllCourses().FirstOrDefault(c => c.CourseCode == course.CourseCode)?.CourseTitle;
+                                <tr>
+                                    <td>@course.CourseCode</td>
+                                    <td>@courseTitle</td>
+                                    <td>
+                                        <input type="text" name="CourseGrades[@course.CourseCode]"
+                                               value="@(course.Grade == -100 ? "" : course.Grade.ToString())" />
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                    <button type="submit" class="btn btn-primary" asp-page-handler="SubmitGrades">Submit Grades</button>
+                }
+                else
+                {
+                    <p class="message-notice">The student has not registered for any courses. Select the course(s) to register.</p>
+                    <form method="post">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <a asp-route-sortField="CourseCode" asp-route-sortAscending="@(Model.SortField == "CourseCode" ? !Model.SortAscending : true)">
+                                            Course Code
+                                        </a>
+                                    </th>
+                                    <th>
+                                        <a asp-route-sortField="CourseTitle" asp-route-sortAscending="@(Model.SortField == "CourseTitle" ? !Model.SortAscending : true)">
+                                            Course Title
+                                        </a>
+                                    </th>
+                                    <th>Check to Register</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var course in Model.AvailableCourses)
+                                {
+                                    <tr>
+                                        <td>@course.CourseCode</td>
+                                        <td>@course.CourseTitle</td>
+                                        <td><input type="checkbox" name="SelectedCourses" value="@course.CourseCode" /></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                        <button class="btn btn-primary" type="submit" asp-page-handler="Register">Register</button>
+                    </form>
+                }
+            }
+        </div>
+    </form>
+</div>
+
+<div class="message-notice container">
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <p>@Model.ErrorMessage</p>
+    }
+</div>

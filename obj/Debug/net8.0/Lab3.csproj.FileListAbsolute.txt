@@ -1,0 +1,99 @@
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cs
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\appsettings.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.staticwebassets.runtime.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\bin\Debug\net8.0\AcademicManagement.dll
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab3.props
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab3.props
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab3.props
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\scopedcss\bundle\Lab3.styles.css
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\scopedcss\projectbundle\Lab3.bundle.scp.css
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.Up2Date
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+C:\Users\anilaregmi\source\repos\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\appsettings.Development.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\appsettings.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.staticwebassets.runtime.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\AcademicManagement.dll
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.AssemblyReference.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cs
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.build.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.development.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab3.props
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab3.props
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab3.props
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\bundle\Lab3.styles.css
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\projectbundle\Lab3.bundle.scp.css
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.Up2Date
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+E:\SEM3\CST8256 WEB programminf 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\appsettings.Development.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\appsettings.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.staticwebassets.runtime.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\bin\Debug\net8.0\AcademicManagement.dll
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.AssemblyReference.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.RazorAssemblyInfo.cs
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.build.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.development.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab3.props
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab3.props
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab3.props
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\staticwebassets.pack.json
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\bundle\Lab3.styles.css
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\scopedcss\projectbundle\Lab3.bundle.scp.css
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.Up2Date
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+E:\SEM3\CST8256 WEB programming 1\Lab3\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll
